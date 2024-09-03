@@ -8,10 +8,10 @@
 [CmdletBinding()]
 param (
     [Parameter()]
-    [int]$initialSize = "@initialSize@",
+    [int]$initialSize
 
     [Parameter()]
-    [int]$maximumSize = "@maximumSize@"
+    [int]$maximumSize
 )
 
 $pagefileSize = @{
