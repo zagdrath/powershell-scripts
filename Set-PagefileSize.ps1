@@ -2,7 +2,7 @@
 .SYNOPSIS
     Sets the pagefile to a declared size.
 .NOTES
-    Author: Cody Wellman <cwellman@dstech.net
+    Author: Cody Wellman <cody.wellman@quartz.systems>
 #>
 
 [CmdletBinding()]
